@@ -1,0 +1,7 @@
+D:\SoftUni\Tech Modul C#\EXERCISE BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\EXERCISE\Division\bin\Debug\Division.exe.config
+D:\SoftUni\Tech Modul C#\EXERCISE BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\EXERCISE\Division\bin\Debug\Division.exe
+D:\SoftUni\Tech Modul C#\EXERCISE BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\EXERCISE\Division\bin\Debug\Division.pdb
+D:\SoftUni\Tech Modul C#\EXERCISE BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\EXERCISE\Division\obj\Debug\Division.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\EXERCISE BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\EXERCISE\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\EXERCISE BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\EXERCISE\Division\obj\Debug\Division.exe
+D:\SoftUni\Tech Modul C#\EXERCISE BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\EXERCISE\Division\obj\Debug\Division.pdb
